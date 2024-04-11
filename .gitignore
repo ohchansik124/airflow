@@ -4,3 +4,4 @@ get-pip.py
 *.pyc
 logs/scheduler/latest
 .env
+.ipynb_checkpoint
