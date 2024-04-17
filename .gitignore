@@ -5,3 +5,5 @@ get-pip.py
 logs/scheduler/latest
 .env
 .ipynb_checkpoint
+custom_image/
+files/
