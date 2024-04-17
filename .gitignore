@@ -5,5 +5,5 @@ get-pip.py
 logs/scheduler/latest
 .env
 .ipynb_checkpoint
-custom_image/airflow/
+custom_image/
 files/
